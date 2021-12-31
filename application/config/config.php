@@ -35,7 +35,7 @@ $config['base_url'] = 'http://127.0.0.1/loja/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+/*$config['index_page'] = 'index.php';*/$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -76,7 +76,7 @@ $config['url_suffix'] = '';
 | than english.
 |
 */
-$config['language']	= 'portuguese';
+$config['language']	= 'portuguese-brazilian';
 
 /*
 |--------------------------------------------------------------------------
